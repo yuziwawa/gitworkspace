@@ -6,7 +6,7 @@ package atguigu.java;
         public static final int NUMBER = 1;
 
         public static void main(String[] args) {
-            System.out.println(123);
+            System.out.println(12fvjdncjksdn3);
             System.out.println(123456);
 
             System.out.println("HelloWorld.main");
